@@ -8,7 +8,6 @@ cool stuff I looked at when attempting this:
 (https://github.com/Borewit/music-metadata)
 (https://github.com/taglib/taglib)
 
-my therapist said this helps
 ### `¯\_(ツ)_/¯`
 
 
